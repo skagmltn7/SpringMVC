@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="springmvc.messagesource.message.MessageSourceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-05T16:04:13" hostname="namheesu-MacBookAir.local" time="0.527">
+  <properties/>
+  <testcase name="helloMessage()" classname="springmvc.messagesource.message.MessageSourceTest" time="0.527"/>
+  <system-out><![CDATA[
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.1)
+
+2024-01-06T01:04:13.070+09:00  INFO 48784 --- [    Test worker] s.m.message.MessageSourceTest            : Starting MessageSourceTest using Java 17.0.9 with PID 48784 (started by heesu in /Users/heesu/Desktop/github/SpringMVC/message-source)
+2024-01-06T01:04:13.071+09:00  INFO 48784 --- [    Test worker] s.m.message.MessageSourceTest            : No active profile set, falling back to 1 default profile: "default"
+2024-01-06T01:04:13.563+09:00  INFO 48784 --- [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-01-06T01:04:13.722+09:00  INFO 48784 --- [    Test worker] s.m.message.MessageSourceTest            : Started MessageSourceTest in 0.791 seconds (process running for 1.39)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
